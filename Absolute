@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Absolute {
 
 	/**
-	 * @param args
+	 * @param argshjjd
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
