@@ -8,7 +8,7 @@ public class Absolute {
 	public static void main(String[] args) {
 		// TODO Auto-genersdfated method stub
 		float y;
-		int x;asdw
+		int x;asdwasdf
 		Scanner input = new Scanner( System.in );
 		System.out.printf("enter a float value:");
 		y= input.nextFloat();
