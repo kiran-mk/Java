@@ -7,9 +7,7 @@ public class Absolute {
 	 */asdf
 	public static void main(String[] args) {xzcvfdgh
 		// TODO Auto-genersdfated method stub
-		float y;
-		int x;asdwasdf
-		Scanner input = new Scanner( System.in )vxc;
+		float y;tyu( System.in )vxc;
 		System.out.printf("enter a float value:");
 		y= input.nextFloat();
 		System.out.printf("\n Given bnfloat value : y= %f\n",y);
