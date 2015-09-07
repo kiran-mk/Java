@@ -6,7 +6,7 @@ public class Absolute {
 	 * @param argshjjdaswasasd
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-genersdfated method stub
 		float y;
 		int x;asdw
 		Scanner input = new Scanner( System.in );
